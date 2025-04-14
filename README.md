@@ -72,5 +72,9 @@ Inventory_management_system/ ├── assets/ # CSS and JS files │ ├── 
 
 👩‍💻 Developed by
 Nandisha Tarlagatti
+AKSHAI S
+HARSH CHANDRAKANT IMMADI
+GNANESH M
+ASHOK KUMAR
 Computer Science & Engineering Student
 🚀 Passionate about Full Stack dvelopment, MLOps, and Open Source
